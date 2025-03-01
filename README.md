@@ -71,7 +71,7 @@ f = \frac{1}{2\pi\sqrt{LC}}
 
 ## 🖥️ **Schematic**  
 📷 **Schematic Diagram**  
-![Schematic](https://github.com/your-repo/VCO-Design-Cadence/blob/main/schematic.png?raw=true)  
+![Schematic](https://github.com/sandesh-ar/Design-of-VCO-using-Cadence-tool/blob/main/Schematic%20design.png?raw=true)  
 
 
 ---
@@ -99,7 +99,7 @@ f = \frac{1}{2\pi\sqrt{LC}}
 - **Linear tuning curve** confirming **proportionality** between **control voltage** and **frequency**.  
 
 📷 **Results Comparison**  
-![Results](https://github.com/your-repo/VCO-Design-Cadence/blob/main/results.png?raw=true)  
+![Results](https://github.com/sandesh-ar/Design-of-VCO-using-Cadence-tool/blob/main/Results.png?raw=true)  
 
 ---
 
